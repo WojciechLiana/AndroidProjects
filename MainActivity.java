@@ -23,7 +23,7 @@ import android.widget.Toast;
 import java.util.Scanner;
 
 /**
- * @version 1.0
+ * @version 2.0
  * @author Wojtas
  */
 public class MainActivity extends AppCompatActivity {
